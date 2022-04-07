@@ -1,8 +1,8 @@
 # IMGUI cmake support
 
-#USAGE
+## USAGE
 
-## EXAMPLE
+### EXAMPLE
 
 ~~~
 set(IMGUI_BACKEND_GLFW ON CACHE BOOL "")
